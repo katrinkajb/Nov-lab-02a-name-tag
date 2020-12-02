@@ -1,0 +1,48 @@
+body {
+    height: 250px;
+    width: 300px;
+}
+
+main {
+    text-align: center;
+    border: 1.5px dotted rgba(6, 6, 112, 0.863);
+    background-color: rgba(6, 6, 112, 0.863);
+    border-radius: 10px;
+}
+
+h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    margin-top: 0px;
+    margin-bottom: 5px;
+    padding-bottom: 7px;
+}
+
+main {
+    text-align: center;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    padding-bottom: 45px;
+}
+
+.hello {
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+}
+
+.intro {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+
+.name {
+    font-size: 30px;
+    color: red; 
+    font-family: cursive;
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
